@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.4.0)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlacesSearchController (0.1.7)
+  - JVFloatLabeledTextField (1.1.1)
+  - PKHUD (4.2.2)
+  - ReachabilitySwift (3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - GoogleMaps
+  - GooglePlacesSearchController
+  - JVFloatLabeledTextField
+  - PKHUD (~> 4.0)
+  - ReachabilitySwift (~> 3)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlacesSearchController: 0ac4fedf1582d2e44329c417a6eed80ccf62d716
+  JVFloatLabeledTextField: 0e5524b097f102036214dd8279edc8ecf08b5e18
+  PKHUD: 9a3599e04d57676ec14746c40e423a52fb6588c0
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+
+PODFILE CHECKSUM: f1bb56debb27cde006ebfd6d8083ed1f81b0384f
+
+COCOAPODS: 1.2.1
